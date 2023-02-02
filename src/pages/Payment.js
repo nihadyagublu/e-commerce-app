@@ -14,7 +14,7 @@ export default function Payment() {
         <TextField id="standard-basic" label="Cart number" variant="standard" />
         <TextField
           id="standard-basic"
-          label="Expirition date"
+          label="Expiration date"
           variant="standard"
         />
         <TextField id="standard-basic" label="Cvc" variant="standard" />
