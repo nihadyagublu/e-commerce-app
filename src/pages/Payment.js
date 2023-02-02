@@ -10,14 +10,18 @@ export default function Payment() {
     <div className="payment">
       <PaymentBox>
         <h2>Payment</h2>
-        <TextField id="standard-basic" label="Cart name" variant="standard" />
-        <TextField id="standard-basic" label="Cart number" variant="standard" />
+        <TextField
+          id="standard-basic"
+          label="Name and Surname"
+          variant="standard"
+        />
+        <TextField id="standard-basic" label="Card number" variant="standard" />
         <TextField
           id="standard-basic"
           label="Expiration date"
           variant="standard"
         />
-        <TextField id="standard-basic" label="Cvc" variant="standard" />
+        <TextField id="standard-basic" label="CVC" variant="standard" />
         <Button variant="contained" color="success">
           Pay
         </Button>
