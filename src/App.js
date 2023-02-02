@@ -5,6 +5,7 @@ import Account from "./components/Account";
 import Favorites from "./components/Favorites";
 import BuyProduct from "./pages/BuyProduct";
 import Payment from "./pages/Payment";
+import AccountPage from "./pages/AccountPage";
 function App() {
   return (
     <div className="app">
@@ -12,7 +13,7 @@ function App() {
         <Route path="/" element={<Body />} />
         <Route path="/detailed/:id" element={<SingleProduct />} />
         <Route path="/buyproduct/:id" element={<BuyProduct />} />
-        <Route path="/account" element={<Account />} />
+        <Route path="/account" element={<AccountPage />} />
         <Route path="/favorite" element={<Favorites />} />
         <Route path="/payment" element={<Payment />}></Route>
       </Routes>
