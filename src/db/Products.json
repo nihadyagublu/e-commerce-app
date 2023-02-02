@@ -1,0 +1,245 @@
+[
+  {
+    "id": 1,
+    "title": "Samsung A12",
+    "colors": ["black", "red", "blue", "green"],
+    "stock": 10,
+    "price": 350,
+    "img": "https://kontakt.az/wp-content/uploads/2021/01/1000-10-3.jpg",
+    "category": "Smartphones"
+  },
+  {
+    "id": 2,
+    "title": "Samsung A70",
+    "colors": ["black", "red", "blue", "green"],
+    "stock": 0,
+    "price": 550,
+    "img": "https://www.bakuelectronics.az/assets/cache_image/38406/08f45f9b8a8f85832a7302c0fd23b887676d8acc_429x419far_efe.jpg",
+    "category": "Smartphones"
+  },
+  {
+    "id": 3,
+    "title": "Samsung S9",
+    "colors": ["black", "red", "blue", "green"],
+    "stock": 5,
+    "price": 950,
+    "img": "https://www.technostore.az/product/image/400/0/p1cb6mslh81h2s1okgbam1mremn4.jpg",
+    "category": "Smartphones"
+  },
+  {
+    "id": 4,
+    "title": "Samsung S21",
+    "colors": ["black", "red", "blue", "green"],
+    "stock": 0,
+    "price": 1250,
+    "img": "https://www.bakuelectronics.az/assets/cache_image/products/93195/smartfon-samsung-galaxy-s21-128gb_429x419far_efe.jpg",
+    "category": "Smartphones"
+  },
+  {
+    "id": 5,
+    "title": "Huawei P30",
+    "colors": ["black", "red", "blue", "green"],
+    "stock": 7,
+    "price": 800,
+    "img": "https://kontakt.az/wp-content/uploads/2019/06/54cba406820f6973bf17a4d481a3c5a2-1.jpg",
+    "category": "Smartphones"
+  },
+  {
+    "id": 6,
+    "title": "Xiaomi Redmi note 10",
+    "colors": ["black", "red", "blue", "green"],
+    "stock": 9,
+    "price": 750,
+    "img": "https://www.bakuelectronics.az/assets/cache_image/products/94167/xiaomi-redmi-note-10-4gb128gb-gr-1_429x419far_efe.jpg",
+    "category": "Smartphones"
+  },
+  {
+    "id": 7,
+    "title": "Realme C25",
+    "colors": ["black", "red", "blue", "green"],
+    "stock": 30,
+    "price": 329,
+    "img": "https://cdn.superfon.az/i/p/500/102420-7fbf43da94e1bb274c9ff56a642ff01d.jpg",
+    "category": "Smartphones"
+  },
+  {
+    "id": 8,
+    "title": "Iphone 13",
+    "colors": ["black", "red", "blue", "green"],
+    "stock": 17,
+    "price": 1700,
+    "img": "https://kontakt.az/wp-content/uploads/2021/09/1_304241-min_png.webp",
+    "category": "Smartphones"
+  },
+  {
+    "id": 9,
+    "title": "Samsung Z Fold",
+    "colors": ["black", "red", "blue", "green"],
+    "stock": 4,
+    "price": 1600,
+    "img": "https://kontakt.az/wp-content/uploads/2021/08/samsung_z_fold_3_silver_2_1628671968268_png.webp",
+    "category": "Smartphones"
+  },
+  {
+    "id": 10,
+    "title": "Xiaomi redmi note7",
+    "colors": ["black", "red", "blue", "green"],
+    "stock": 4,
+    "price": 400,
+    "img": "https://kontakt.az/wp-content/uploads/2019/09/redmi_note7-_-__2.jpg",
+    "category": "Smartphones"
+  },
+  {
+    "id": 11,
+    "title": "Asus E410MA",
+    "colors": ["black", "red", "blue", "green"],
+    "stock": 4,
+    "price": 699,
+    "img": "https://kontakt.az/wp-content/uploads/gallery-tum/TM-DG-KOT-1114-NB-1536_c97935bc9a913dea19cadd173b92ca0e_w_png.webp",
+    "category": "Notebooks"
+  },
+  {
+    "id": 12,
+    "title": "Lenovo V15-IGL",
+    "colors": ["black", "red", "blue", "green"],
+    "stock": 4,
+    "price": 649,
+    "img": "https://kontakt.az/wp-content/uploads/gallery-tum/TM-DG-KOT-1114-NB-1345_11b221ad090b59898b6b826cc9c837b0_w_png.webp",
+    "category": "Notebooks"
+  },
+  {
+    "id": 13,
+    "title": "Acer Aspire A315",
+    "colors": ["black", "red", "blue", "green"],
+    "stock": 4,
+    "price": 749,
+    "img": "https://kontakt.az/wp-content/uploads/gallery-tum/TM-DG-KOT-1114-NB-0054_8c71cd79d0487266d4cffb511533526f_w.jpg",
+    "category": "Notebooks"
+  },
+  {
+    "id": 14,
+    "title": "Asus 15 X415",
+    "colors": ["black", "red", "blue", "green"],
+    "stock": 4,
+    "price": 929,
+    "img": "https://kontakt.az/wp-content/uploads/gallery-tum/TM-DG-KOT-1114-NB-1539_d3bb84668b3598ab7d1d2f50485d240a_w.jpg",
+    "category": "Notebooks"
+  },
+  {
+    "id": 15,
+    "title": "Acer Extensa",
+    "colors": ["black", "red", "blue", "green"],
+    "stock": 4,
+    "price": 1029,
+    "img": "https://kontakt.az/wp-content/uploads/gallery-tum/TM-DG-KOT-1114-NB-1478_5a33402d3a3fc164cd07f94a1bf944a0_w_png.webp",
+    "category": "Notebooks"
+  },
+  {
+    "id": 16,
+    "title": "Acer Aspire 3",
+    "colors": ["black", "red", "blue", "green"],
+    "stock": 40,
+    "price": 1079,
+    "img": "https://kontakt.az/wp-content/uploads/gallery-tum/TM-DG-KOT-1114-NB-1480_51e74f67b40999581b7fde65c9be48f6_w_png.webp",
+    "category": "Notebooks"
+  },
+  {
+    "id": 17,
+    "title": "Hp 15S",
+    "colors": ["black", "red", "blue", "green"],
+    "stock": 5,
+    "price": 1389,
+    "img": "https://kontakt.az/wp-content/uploads/gallery-tum/TM-DG-KOT-1114-NB-1508_8c194594978a5249897cda8a71766733_w_png.webp",
+    "category": "Notebooks"
+  },
+  {
+    "id": 18,
+    "title": "Dell Vostro 15",
+    "colors": ["black", "red", "blue", "green"],
+    "stock": 22,
+    "price": 1399,
+    "img": "https://kontakt.az/wp-content/uploads/gallery-tum/TM-DG-KOT-1114-NB-0473_939084becfc7042d242e50ff04f1e2b8_w.jpg",
+    "category": "Notebooks"
+  },
+  {
+    "id": 19,
+    "title": "Hp Pavilion",
+    "colors": ["black", "red", "blue", "green"],
+    "stock": 40,
+    "price": 1449,
+    "img": "https://kontakt.az/wp-content/uploads/gallery-tum/TM-DG-KOT-1114-NB-1506_d0466d55153ce8f7f7f33d18170a9239_w_png.webp",
+    "category": "Notebooks"
+  },
+  {
+    "id": 20,
+    "title": "Asus K513 EA",
+    "colors": ["black", "red", "blue", "green"],
+    "stock": 40,
+    "price": 1360,
+    "img": "https://kontakt.az/wp-content/uploads/gallery-tum/TM-DG-KOT-1114-NB-1546_e014e16896c6f8865db8d74d93cc2850_w_png.webp",
+    "category": "Notebooks"
+  },
+  {
+    "id": 21,
+    "title": "Asus K513 EA",
+    "colors": ["black", "red", "blue", "green"],
+    "stock": 40,
+    "price": 1360,
+    "img": "https://kontakt.az/wp-content/uploads/gallery-tum/TM-DG-KOT-1114-NB-1546_e014e16896c6f8865db8d74d93cc2850_w_png.webp",
+    "category": "Notebooks"
+  },
+  {
+    "id": 22,
+    "title": "Powerbank Xiaomi",
+    "colors": ["black", "red", "blue", "green"],
+    "stock": 40,
+    "price": 20,
+    "img": "https://kontakt.az/wp-content/uploads/gallery-tum/TM-DG-ACS-1109-PB-0189_e9de8719adf7f7b135fab1fabe96f8e4_w_png.webp ",
+    "category": "Accessories"
+  },
+  {
+    "id": 23,
+    "title": "Powerbank Mobaaks 2000MaH",
+    "colors": ["black", "red", "blue", "green"],
+    "stock": 40,
+    "price": 30,
+    "img": "https://kontakt.az/wp-content/uploads/gallery-tum/TM-DG-ACS-1109-PB-0184_2358ab8fb315482c23c324eb48924d9b_w_png.webp ",
+    "category": "Accessories"
+  },
+  {
+    "id": 24,
+    "title": "Xiaomi Adpater 5000 mAh",
+    "colors": ["black", "red", "blue", "green"],
+    "stock": 40,
+    "price": 15,
+    "img": "https://kontakt.az/wp-content/uploads/gallery-tum/TM-DG-ACS-1109-AP-0144_a366b9543db18aade833ee26c08c3cba_w_png.webp ",
+    "category": "Accessories"
+  },
+  {
+    "id": 25,
+    "title": "Choetec Usb Cable",
+    "colors": ["black", "red", "blue", "green"],
+    "stock": 40,
+    "price": 5,
+    "img": "https://kontakt.az/wp-content/uploads/gallery-tum/TM-DG-ACS-1109-CC-0183_f7a8d76c86dc11e2f1a9aff635a9f132_w_png.webp ",
+    "category": "Accessories"
+  },
+  {
+    "id": 26,
+    "title": "Samsung A53 Case",
+    "colors": ["black", "red", "blue", "green"],
+    "stock": 40,
+    "price": 7,
+    "img": "https://kontakt.az/wp-content/uploads/gallery-tum/TM-DG-ACS-1267-KT-1753_eb1ebb53449ec00225f60f4f6d7e2ae6_w_png.webp ",
+    "category": "Accessories"
+  },
+  {
+    "id": 27,
+    "title": "Airpod Mi Wireless",
+    "colors": ["black", "red", "blue", "green"],
+    "stock": 40,
+    "price": 20,
+    "img": "https://kontakt.az/wp-content/uploads/2020/12/xiaomi_mi_true_wireless_earbuds_basic_2_005_ad_l.jpg ",
+    "category": "Accessories"
+  }
+]

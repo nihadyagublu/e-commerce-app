@@ -1,0 +1,126 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  height: 100%;
+  width: 100%;
+  box-sizing: border-box;
+  background-color: antiquewhite;
+}
+html {
+  overflow-x: hidden !important;
+}
+*::-webkit-scrollbar {
+  display: none;
+}
+BODY::-webkit-scrollbar {
+  display: none;
+}
+BODY {
+  overflow: hidden;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+@media screen and (max-width: 460px) {
+  #search {
+    position: absolute;
+    top: 65px;
+    width: 100%;
+    left: 0;
+    color: rgba(9, 108, 255, 0.733);
+  }
+}
+.bottom {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  border-top: 2px solid #e7ebee;
+}
+.tab {
+  width: 100px;
+  margin: 5px;
+  box-sizing: border-box;
+  text-align: center;
+  padding-top: 10px;
+}
+.active-tab {
+  text-align: center;
+  box-sizing: border-box;
+  font-weight: bolder;
+  width: 100px;
+  box-sizing: border-box;
+  padding-top: 10px;
+}
+.active-tab::after {
+  content: "";
+  display: block;
+  background: rgb(40, 40, 117);
+  height: 4px;
+  width: 100px;
+  margin-top: 4px;
+}
+#back {
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  font-weight: bolder;
+}
+.theme {
+  background: red !important;
+  color: white;
+}
+.but {
+  background: #f00000;
+  background: rgb(145, 16, 243);
+}
+.show {
+  width: 100% !important;
+  top: 60px !important;
+  transition: 0.5s ease-in;
+}
+.rotate {
+  transform: rotate(90deg);
+}
+.empty {
+  font-size: 100px !important;
+}
+.editpage {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 20px;
+}
+.hidecontent {
+  display: none;
+}
+.payment {
+  text-align: center;
+  padding-top: 100px;
+  color: blue;
+}
+.slider {
+  margin-top: 72px;
+  height: 300px;
+}
+@media screen and (max-width: 600px) {
+  .slider {
+    padding-left: 0;
+    height: 180px;
+    padding-top: 0;
+  }
+}
+.slider div div {
+  width: 100%;
+  height: 300px;
+}
+
+.slider div div img {
+  width: 100%;
+  height: 100%;
+}
